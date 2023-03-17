@@ -3,7 +3,8 @@
 <!--
 **hen-ni/hen-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🌱 Education: DATA/System Engineering
+## ---------------------------------------------------------------------------------------------------##
+## - 🌱 Education: DATA/System Engineering </br>
 - 🌱🌱 Activity
   <2023> KB IT 아카데미 It's your life
   <2022> 2022 한국 핀테크지원센터 핀테크 인턴십 3기 개발인턴 120H 수료
