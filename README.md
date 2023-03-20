@@ -1,13 +1,19 @@
 ### Hi I'm hyein Kim 👋
 
-## 💪Skills
-### Platforms &amp; Languages
+## 📚Tech Skills📚 
 <div align=center>     
-    <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+    <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> 
     <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>   
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>  
     <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">
-</div>
+
+<h3 align="center">🌈 About Me 🌈</h3>
+<p align="center">
+  <a href="https://henni.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="https://www.instagram.com/hen._.ni//"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+  <a href="mailto:henni07580@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
 
 
 #### - 🌱 Education: DATA/System Engineering </br>
