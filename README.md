@@ -17,7 +17,7 @@
 
 
 <h3 align="center">🌈 About Me 🌈</h3>
-<h4 align = "left">🌱 Education: DATA/System Engineering </br>
+<h4 align = "left">🌱 Education: DATA/System Engineering </br></br>
 🌱🌱 Activity</br>
 <2023> KB IT 아카데미 It's your life</br>
 <2022> 2022 한국 핀테크지원센터 핀테크 인턴십 3기 개발인턴 120H 수료</br>
