@@ -20,11 +20,10 @@
 
 ## 💪Skills
 ### Platforms &amp; Languages
-<div align=left>     
+<div align=center>     
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
     <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>      
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>  
     <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/> 
-    <img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
     <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">
 </div>
