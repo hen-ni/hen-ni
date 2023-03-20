@@ -2,7 +2,7 @@
 
 <!--
 **hen-ni/hen-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+## </br>
 #### - 🌱 Education: DATA/System Engineering </br>
 #### - 🌱🌱 Activity
 ####   <2023> KB IT 아카데미 It's your life
@@ -18,5 +18,13 @@
 ####    <2021> 한국정보사회진흥원(NIA) 공공빅데이터 청년인턴_양주시청 기획재정부 정보통신과 빅데이터팀(2021.09~2021.12)
   
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hen-nishow_icons=true&theme=radical)
+## 💪Skills
+### Platforms &amp; Languages
+<div align=left>     
+    <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
+    <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>      
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>  
+    <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/> 
+    <img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
+    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">
+</div>
