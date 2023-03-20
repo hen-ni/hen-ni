@@ -1,9 +1,5 @@
 ### Hi I'm hyein Kim 👋
 
-<!--
-**hen-ni/hen-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-## </br>
-
 ## 💪Skills
 ### Platforms &amp; Languages
 <div align=center>     
