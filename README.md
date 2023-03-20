@@ -20,7 +20,7 @@
 
 ![hen-ni GitHub stats](https://github-readme-stats.vercel.app/api?username=hen-ni&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haein0758)](https://solved.ac/haein0758/)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannabedain&layout=compact&theme=buefy&hide_border=true" /></a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hen-ni&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 </h1>
 
