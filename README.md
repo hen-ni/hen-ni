@@ -17,6 +17,11 @@
 </br>
 </br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haein0758)](https://solved.ac/haein0758/)
+
+
+
+
 <h4 align = "left">🌱 Education: DATA/System Engineering </br></br>
 🌱🌱 Activity</br>
 <2023> KB IT 아카데미 It's your life</br>
