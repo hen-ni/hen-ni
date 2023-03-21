@@ -18,8 +18,7 @@
 </br>
 
 (Github Stat)![hen-ni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hen-ni)
-( Stat)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hen-ni)
-
+(Baekjoon Stat)[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=haein0758)](https://solved.ac/haein0758)
 
 </h1>
 
