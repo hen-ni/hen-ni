@@ -17,11 +17,8 @@
 </br>
 </br>
 
-(Github Stat)
-[![hen-ni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hen-ni)]
-
-(Most Used Language)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hen-ni)
+(Github Stat)![hen-ni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hen-ni)
+( Stat)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hen-ni)
 
 
 </h1>
