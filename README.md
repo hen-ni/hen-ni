@@ -17,7 +17,8 @@
 </br>
 </br>
 
-)![hen-ni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hen-ni)</br>
+#### :pencil2: Study log
+![hen-ni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hen-ni)</br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=haein0758)](https://solved.ac/haein0758)
 
 </h1>
