@@ -26,15 +26,14 @@
 
 <h4 align = "left">🌱 Education: DATA/System Engineering </br></br>
 🌱🌱 Activity</br>
-<h5 align = "left"><2023> KB IT 아카데미 It's your life</br>
-<2022> 2022 한국 핀테크지원센터 핀테크 인턴십 3기 개발인턴 120H 수료</br>
- 금융사관학교 50기 국제경제전문가/ 개인금융 자산관리 과정 수료</br>
- 한국정보사회진흥원(NIA) 공공빅데이터 인턴십 교육 320H 수료</br></h5>
+<h5 align = "left"><2023> KB IT Academy It's your life 3rd generation (2023.3-2023.5)
+<2022> Completed 120H development internship for the third phase of 2022 Fintech Internship (2022.06-2022.08) </br>
+ Completed the 50th International Economic Expert/Personal Financial Asset Management Course at the Financial Academy  (2022.03-2022.04) </br>
+<2021> Completed 320H of the Korea Information Society Promotion Agency (NIA) Public Big Data Internship Training (2021.05-2021.08)</br></h5>
 <h4 align = "left">🌱🌱🌱 Competition</br>
-<h5 align = "left"><2022> 한국핀테크지원센터 2022 핀테크 비즈니스 서비스 모델링 개발(해커톤) 입상</br>
-LH(OMPAS) 김해시 시민안전 사각지대 해소를 위한 cctv설치위치 선정 입상</br></h5>
+<h5 align = "left">Korea Fintech Support Center 2022 Fintech Business Service Modeling Development(Hackathon standing prize)</br>
+LH (OMPAS)Selection of CCTV installation location to resolve the blind spot of civil safety in Gimhae(standing prize)</br></h5>
 <h4 align = "left">🌱🌱🌱🌱 Intern</br>
-<h5 align = "left"><2023> 기업은행 2023년 동계인턴 정보보호부 개인신용정보관리팀 (2023.01 ~ 2023.02)</br></br>
-<2021> 한국정보사회진흥원(NIA) 공공빅데이터 청년인턴_양주시청 기획재정부 정보통신과 빅데이터팀(2021.09 ~ 2021.12)
+<h5 align = "left"><2023> IBK 2023 Winter Intern Information Protection Department Personal Credit Information Management Team  (2023.01 ~ 2023.02)</br></br>
+<2021> Korea Information Society Promotion Agency (NIA) Public Big Data Youth Intern_Big Data Team of the Ministry of Strategy and Finance of Yangju City Hall(2021.09 ~ 2021.12)
   
-
